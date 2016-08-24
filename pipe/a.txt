@@ -1,0 +1,3 @@
+just  hello  
+text 中国
+golang
